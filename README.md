@@ -1,3 +1,3 @@
 # TestIHTML
 index.html
-ТЗ для  пацанов.
+ТЗ для  Fundraise Up
